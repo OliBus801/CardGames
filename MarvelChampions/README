@@ -1,1 +1,28 @@
-This is the main repo for all assets relating to Marvel Champions
+Marvel Champions Repository to play solo runs on PlayingCards.io
+---------------------------------------------------------------------------------------------------------------------------------------
+HOW TO PLAY ?
+---------------------------------------------------------------------------------------------------------------------------------------
+TL:DR
+1. Import 'marvelchampions.pcio'
+2. Import your complete hero deck
+3. Import the Modular Sets and select the modules you need.
+4. Import The Villains and pick the villain you want to fight against!
+5. You have everything you need to start playing! Have fun! 
+---------------------------------------------------------------------------------------------------------------------------------------
+1. Import 'marvelchampions.pcio'
+
+Simply create a 'custom room' on PlayingCards.io mainpage. Then pick 'Start Blank Room'. You click 'Edit Table' to find the 'Room Options' menu.
+In the settings you can import a file, you need to import 'marvelchampions.pcio' (This is the template for playing)
+---------------------------------------------------------------------------------------------------------------------------------------
+2.Import your complete hero deck
+Next we need to import our various decks of cards. PlayingCards.io uses .csv files to import custom deck of cards quickly, the process can still be a bit tedious..
+
+To keep the number of decks we import low, I have found it helpful to make a .csv file for your complete hero deck. (I will provide my own template deck for Leadership-Starlord)
+---------------------------------------------------------------------------------------------------------------------------------------
+3. Import the Modular Sets and select the modules you need.
+I have made a .csv file for ALL of the modular sets, you can import all of those, click 'clear all' to remove all of the cards and then simply pick the modular sets you need.
+
+I'm currently
+---------------------------------------------------------------------------------------------------------------------------------------
+4. Import The Villains and pick the villain you want to fight against!
+
