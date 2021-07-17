@@ -12,7 +12,7 @@ TL:DR
 1. Import 'marvelchampions.pcio'
 
 Simply create a 'custom room' on PlayingCards.io mainpage. Then pick 'Start Blank Room'. You click 'Edit Table' to find the 'Room Options' menu.
-In the settings you can import a file, you need to import 'marvelchampions.pcio' (This is the template for playing)
+In the settings you can import a file, you need to import 'marvelchampions.pcio' (Found in the main 'MarvelChampions' folder) (This is the template for playing)
 ---------------------------------------------------------------------------------------------------------------------------------------
 2.Import your complete hero deck
 Next we need to import our various decks of cards. PlayingCards.io uses .csv files to import custom deck of cards quickly, the process can still be a bit tedious..
