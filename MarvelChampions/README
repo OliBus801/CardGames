@@ -16,13 +16,22 @@ In the settings you can import a file, you need to import 'marvelchampions.pcio'
 ---------------------------------------------------------------------------------------------------------------------------------------
 2.Import your complete hero deck
 Next we need to import our various decks of cards. PlayingCards.io uses .csv files to import custom deck of cards quickly, the process can still be a bit tedious..
-
 To keep the number of decks we import low, I have found it helpful to make a .csv file for your complete hero deck. (I will provide my own template deck for Leadership-Starlord)
+
+For now, there is only one complete deck, I'm looking for a better way to make decks easily custom so I'm not eager to add more right now. 
+It's fairly easy to make your own decks from HallOfHeroes images on PlayingCards.io if you want to, but again, a bit tedious.
+
+*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
 ---------------------------------------------------------------------------------------------------------------------------------------
 3. Import the Modular Sets and select the modules you need.
 I have made a .csv file for ALL of the modular sets, you can import all of those, click 'clear all' to remove all of the cards and then simply pick the modular sets you need.
+The Stantard Module is the one at the bottom which is very convenient.
 
-I'm currently
+*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
 ---------------------------------------------------------------------------------------------------------------------------------------
 4. Import The Villains and pick the villain you want to fight against!
+For now I have only uploaded the 'rise of red skull' villains (Except Zola cause I would have to do him by hand and I got lazy)
+I will continue to upload villains at my own leizure as I pursue playing this game.
+If you ever have a request, hit me up on reddit I will see what I can do!
 
+*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
