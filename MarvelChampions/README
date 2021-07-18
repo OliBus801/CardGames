@@ -3,35 +3,25 @@ Marvel Champions Repository to play solo runs on PlayingCards.io
 HOW TO PLAY ?
 ---------------------------------------------------------------------------------------------------------------------------------------
 TL:DR
-1. Import 'marvelchampions.pcio'
-2. Import your complete hero deck
-3. Import the Modular Sets and select the modules you need.
-4. Import The Villains and pick the villain you want to fight against!
-5. You have everything you need to start playing! Have fun! 
+1. Import the room 'marvelchampionsV1.pcio' on PlayingCards.io
+2. Edit the decks in 'Edit Table' mode and add the cards you need! 
+3. That's everything! Have fun! 
 ---------------------------------------------------------------------------------------------------------------------------------------
-1. Import 'marvelchampions.pcio'
+1. Import 'marvelchampionsV1.pcio'
 
 Simply create a 'custom room' on PlayingCards.io mainpage. Then pick 'Start Blank Room'. You click 'Edit Table' to find the 'Room Options' menu.
-In the settings you can import a file, you need to import 'marvelchampions.pcio' (Found in the main 'MarvelChampions' folder) (This is the template for playing)
+In the settings you can import a file, you need to import 'marvelchampionsV1.pcio' (Found in the main 'MarvelChampions' folder)
 ---------------------------------------------------------------------------------------------------------------------------------------
-2.Import your complete hero deck
-Next we need to import our various decks of cards. PlayingCards.io uses .csv files to import custom deck of cards quickly, the process can still be a bit tedious..
-To keep the number of decks we import low, I have found it helpful to make a .csv file for your complete hero deck. (I will provide my own template deck for Leadership-Starlord)
+2. Edit the decks 
 
-For now, there is only one complete deck, I'm looking for a better way to make decks easily custom so I'm not eager to add more right now. 
-It's fairly easy to make your own decks from HallOfHeroes images on PlayingCards.io if you want to, but again, a bit tedious.
+When you first enter the room, there is no deck on the table, that is normal. The decks are there but they are all empty!
+You need to, again, enter 'Edit Table' mode, you will see the decks now, I have put some text to help you know which one is which. (The Villain deck is in the Villain Deck Holder)
 
-*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
+Click on the Deck, then 'Edit Deck'
+The deck already has the right configuration you only need to go straight to the 'Cards' tab. 
+I use https://marvelcdb.com/ to make my deck before-hand, then, with CTRL-F, I add the cards I need.
+
+Deck Customization can take some time, so after setting up your hero decks, you can 'Export Room' to save the room as it is with your Hero deck fully ready!
 ---------------------------------------------------------------------------------------------------------------------------------------
-3. Import the Modular Sets and select the modules you need.
-I have made a .csv file for ALL of the modular sets, you can import all of those, click 'clear all' to remove all of the cards and then simply pick the modular sets you need.
-The Stantard Module is the one at the bottom which is very convenient.
 
-*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
----------------------------------------------------------------------------------------------------------------------------------------
-4. Import The Villains and pick the villain you want to fight against!
-For now I have only uploaded the 'rise of red skull' villains (Except Zola cause I would have to do him by hand and I got lazy)
-I will continue to upload villains at my own leizure as I pursue playing this game.
-If you ever have a request, hit me up on reddit I will see what I can do!
-
-*ALL .CSV FILES CAN BE FOUND INSIDE THE NICELY NAMED "CSV FILES" FOLDER*
+Thank you for playing, hope you have fun out there! 
