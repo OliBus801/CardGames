@@ -5,14 +5,17 @@ Current Packs: From Coreset to the Rise of Red Skull Expansion
 First off, you can go create an account on playingcards.io and import one of the files in 'PCIO' (Singleplayer or Two player) for a great template to start playing.
 If you go in 'Edit Table', you will see there's Decks, but there are empty... We will need .csv files to import the decks needed for our game.
 
-You will need the latest version of Python and some modules: bs4, requests.
+You will need the latest version of Python and some modules: Tkinter, bs4, maybe "requests" but it should be already downloaded.
 
 First off download the two files contained in GUI. This is the GUI needed to quickly write .csv files to import into the room in playingcards.io.
 Run 'python3 MarvelGUI.py' and follow the instructions.
-The program will create for you the needed .csv files (namely, HERO.csv, VILLAIN.csv, SCHEME.csv and maybe PLAYER2_HERO.csv) into the mentioned folder.
+The program will create for you the needed .csv files (namely, HERO.csv, VILLAIN.csv, SCHEME.csv and maybe PLAYER2_HERO.csv) into the mentioned folder at the start of the program.
 
-For the Hero Decks, you can create your own or select any deck (which fits the current packs) on https://marvelcdb.com/ and download the "Txt file".
-This is what you will import into the GUI.
+For the Hero Decks, there is two options:
+1) you can create your own on https://marvelcdb.com/
+2) select any deck (which fits the current packs (you can go in "Decklists" and then advanced search and select which packs fits the current version)) on https://marvelcdb.com/ and download the "Txt file".
+
+This is what you will import into the GUI. The program will take care of adding the desired cards to the correct .csv files.
 
 Finally you can import the decks into playingcards.io using the .csv files and start playing !
 Enjoy ! 
